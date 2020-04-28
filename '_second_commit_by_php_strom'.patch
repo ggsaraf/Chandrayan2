@@ -1,0 +1,32 @@
+Index: start.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- start.php	(revision 2ef8f12ce41a376d440b1007e9620191218a0f5b)
++++ start.php	(date 1588071114407)
+@@ -15,6 +15,6 @@
+ 
+ echo "first commit by PHP Strom";
+ 
+-echo "welcome22 gggggggg";
++echo "welcome22 gggggggg dofkpdfkp";
+ 
+ ?>
+Index: welcome.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- welcome.php	(revision 2ef8f12ce41a376d440b1007e9620191218a0f5b)
++++ welcome.php	(date 1588070094938)
+@@ -7,4 +7,6 @@
+  */
+ 
+ 
+-echo "Welcome to PHP strom Git";
+\ No newline at end of file
++echo "Welcome to PHP strom Git";
++
++echo "ddddddd";
+\ No newline at end of file
