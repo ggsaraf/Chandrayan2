@@ -15,4 +15,6 @@ echo "Welcome its nice";
 
 echo "first commit by PHP Strom";
 
+echo "welcome";
+
 ?>
