@@ -8,3 +8,5 @@
 
 
 echo "Welcome to PHP strom Git";
+
+echo "Welcome to stash";
