@@ -15,6 +15,6 @@ echo "Welcome its nice";
 
 echo "first commit by PHP Strom";
 
-echo "welcome22";
+echo "welcome22 gggggggg";
 
 ?>
